@@ -1,0 +1,241 @@
+[
+  {
+    "service": "STUDENT_HOSTEL_ENQUIRY",
+    "fullName": "Faith Ejiro Oghenekevwe",
+    "phoneNumber": "08051239988",
+    "email": "",
+    "paymentStatus": "Not Applicable",
+    "processingStatus": "Submitted",
+    "notes": "Site: Owa-Alero | Budget: ₦150,000 - ₦200,000 | Roommate: Yes",
+    "allFields": {
+      "fullName": "Faith Ejiro Oghenekevwe",
+      "phoneNumber": "08051239988",
+      "campusSite": "Owa-Alero",
+      "amountBudgeted": "₦150,000 - ₦200,000",
+      "doYouNeedARoommate": "Yes",
+      "additionalPreferences": "Self-contained room with constant light and running water near campus gate."
+    },
+    "submissionId": "EG-2026-0008"
+  },
+  {
+    "service": "AFFIDAVIT_OF_GOOD_CONDUCT",
+    "fullName": "Chinedu Victor Alabi",
+    "phoneNumber": "07065554321",
+    "email": "chinedu.alabi@unidel.edu.ng",
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "NIN: 12345678901 | Dept: Law",
+    "allFields": {
+      "fullName": "Chinedu Victor Alabi",
+      "nin": "12345678901",
+      "department": "Law",
+      "faculty": "Faculty of Law",
+      "nativeTown": "Owa-Alero",
+      "homeAddress": "4 Court Road, Owa-Alero",
+      "email": "chinedu.alabi@unidel.edu.ng",
+      "phoneNumber": "07065554321"
+    },
+    "submissionId": "EG-2026-0007"
+  },
+  {
+    "service": "LETTER_PROCESSING",
+    "fullName": "Blessing Ngozi Okeke",
+    "phoneNumber": "08149876543",
+    "email": "blessing.okeke@unidel.edu.ng",
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "Selected: Acceptance Letter, Sponsor Letter | Fee: ₦2,000",
+    "allFields": {
+      "selectedLetterTypes": [
+        "Acceptance Letter",
+        "Sponsor Letter"
+      ],
+      "numberOfLetters": 2,
+      "totalAmountPayable": "₦2,000",
+      "acceptanceLetter": {
+        "fullName": "Blessing Ngozi Okeke",
+        "homeAddress": "12 Old Asaba Road, Agbor",
+        "state": "Delta",
+        "courseOfStudy": "Accounting",
+        "department": "Accounting",
+        "faculty": "Management and Social Sciences"
+      },
+      "sponsorLetter": {
+        "sponsorFullName": "Elder Samuel Okeke",
+        "sponsorHomeAddress": "12 Old Asaba Road, Agbor",
+        "stateOfOrigin": "Delta",
+        "relationshipWithApplicant": "Father"
+      }
+    },
+    "submissionId": "EG-2026-0006"
+  },
+  {
+    "service": "ONLINE_REGISTRATION",
+    "fullName": "Emeka Chukwudi Nnamdi",
+    "phoneNumber": "08031234567",
+    "email": "emeka.chukwudi@unidel.edu.ng",
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "Course: Computer Science | Department: Computer Science",
+    "allFields": {
+      "surname": "Emeka",
+      "firstName": "Chukwudi",
+      "middleName": "Nnamdi",
+      "phoneNumber": "08031234567",
+      "emailAddress": "emeka.chukwudi@unidel.edu.ng",
+      "dateOfBirth": "2006-03-22",
+      "permanentAddress": "College Road, Agbor",
+      "nextOfKin": "Chief Nnamdi Emeka",
+      "nextOfKinAddress": "College Road, Agbor",
+      "nextOfKinPhoneNumber": "08098765432",
+      "firstChoice": "Computer Science",
+      "secondChoice": "Information Technology",
+      "waecExamNumber": "4123890123",
+      "waecExamDate": "May/June 2025",
+      "necoExamNumber": "N/A",
+      "necoExamDate": "N/A"
+    },
+    "submissionId": "EG-2026-0005"
+  },
+  {
+    "service": "LETTER_PROCESSING",
+    "fullName": "Emeka Chidi",
+    "phoneNumber": "0840488",
+    "email": "",
+    "allFields": {
+      "service": "LETTER PROCESSING",
+      "selectedLetterTypes": [
+        "Acceptance Letter"
+      ],
+      "numberOfLetters": 1,
+      "totalAmountPayable": "₦1,000",
+      "studentPhoneNumber": "0840488",
+      "studentEmail": "N/A",
+      "acceptanceLetter": {
+        "fullName": "Emeka Chidi",
+        "homeAddress": "Bshdhhhhh",
+        "state": "Delta state",
+        "course": "Hdhdh",
+        "department": "Rurhbbb",
+        "faculty": "Bhddhh"
+      }
+    },
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "Selected: Acceptance Letter | Fee: ₦1,000",
+    "submissionId": "EG-2026-0004",
+    "date": "2026-09-04",
+    "time": "19:28:29"
+  },
+  {
+    "service": "LETTER_PROCESSING",
+    "fullName": "Feggev",
+    "phoneNumber": "880689665",
+    "email": "666hg",
+    "allFields": {
+      "service": "LETTER PROCESSING",
+      "selectedLetterTypes": [
+        "Acceptance Letter"
+      ],
+      "numberOfLetters": 1,
+      "totalAmountPayable": "₦1,000",
+      "studentPhoneNumber": "880689665",
+      "studentEmail": "666hg",
+      "acceptanceLetter": {
+        "fullName": "Feggev",
+        "homeAddress": "Gsuyeggg",
+        "state": "Hheg3v",
+        "course": "Ggftg",
+        "department": "Hgftff",
+        "faculty": "Hgfgg"
+      }
+    },
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "Selected: Acceptance Letter | Fee: ₦1,000",
+    "submissionId": "EG-2026-0003",
+    "date": "2026-09-04",
+    "time": "19:01:42"
+  },
+  {
+    "service": "LETTER_PROCESSING",
+    "fullName": "Ddfygggg",
+    "phoneNumber": "88638886668",
+    "email": "6ffyygy",
+    "allFields": {
+      "service": "LETTER PROCESSING",
+      "selectedLetterTypes": [
+        "Acceptance Letter",
+        "Sponsor Letter",
+        "Clergy Man Letter",
+        "Civil Servant Letter"
+      ],
+      "numberOfLetters": 4,
+      "totalAmountPayable": "₦4,000",
+      "studentPhoneNumber": "88638886668",
+      "studentEmail": "6ffyygy",
+      "acceptanceLetter": {
+        "fullName": "Ddfygggg",
+        "homeAddress": "Hh4h4g4vv",
+        "state": "Hevegevvv",
+        "course": "Ghvcc",
+        "department": "Ygcffffd",
+        "faculty": "Cfyggcx"
+      },
+      "sponsorLetter": {
+        "sponsorName": "Guggucfdd",
+        "sponsorHomeAddress": "Hhhx5xyg",
+        "sponsorState": "Ffujvc",
+        "relationshipToStudent": "Hh gu hccf"
+      },
+      "clergyLetter": {
+        "nameOfChurch": "Geg3ggh",
+        "nameOfPastor": "Vgyhvv",
+        "addressOfChurch": "Hhhvv",
+        "titleOfClergyMan": "Ggfrdd"
+      },
+      "civilServantLetter": {
+        "civilServantFullName": "Vggff",
+        "ministryOrOrganization": "Gygfff",
+        "position": "Ff th gg",
+        "workplaceAddress": "Ftgffff"
+      }
+    },
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "Selected: Acceptance Letter, Sponsor Letter, Clergy Man Letter, Civil Servant Letter | Fee: ₦4,000",
+    "submissionId": "EG-2026-0002",
+    "date": "2026-09-04",
+    "time": "18:59:49"
+  },
+  {
+    "service": "LETTER_PROCESSING",
+    "fullName": "Daniel Gify",
+    "phoneNumber": "30906060685",
+    "email": "",
+    "allFields": {
+      "service": "LETTER PROCESSING",
+      "selectedLetterTypes": [
+        "Acceptance Letter"
+      ],
+      "numberOfLetters": 1,
+      "totalAmountPayable": "₦1,000",
+      "studentPhoneNumber": "30906060685",
+      "studentEmail": "N/A",
+      "acceptanceLetter": {
+        "fullName": "Daniel Gify",
+        "homeAddress": "Gyvvvv",
+        "state": "Dtxcc",
+        "course": "Jioobv i",
+        "department": "Jobbjb",
+        "faculty": "Czfsh"
+      }
+    },
+    "paymentStatus": "Pending",
+    "processingStatus": "Submitted",
+    "notes": "Selected: Acceptance Letter | Fee: ₦1,000",
+    "submissionId": "EG-2026-0001",
+    "date": "2026-09-04",
+    "time": "17:45:01"
+  }
+]

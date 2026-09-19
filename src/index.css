@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Custom scrollbar and touch highlights */
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background-color: #fef3c7;
+  color: #78350f;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "EASY GETIN — UNIDEL",
+  "description": "Easy Getin provides convenient student assistance for UNIDEL-related registration, clearance requirements, letter processing, affidavit assistance and hostel enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
